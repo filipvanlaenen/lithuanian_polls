@@ -29,45 +29,45 @@ Last result: **0.0%** (General Election of 27 March 2017)
 | [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.4% | 27.5–31.3% | 27.0–31.8% | 26.6–32.3% | 25.7–33.2% |
 | [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.7% | 25.0–28.5% | 24.5–29.1% | 24.1–29.5% | 23.3–30.4% |
 | [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.3–30.9% | 24.5–31.8% |
-| [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.8% | N/A | N/A | N/A | N/A |
-| [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.1% | N/A | N/A | N/A | N/A |
-| [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.5% | N/A | N/A | N/A | N/A |
-| [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.3% | N/A | N/A | N/A | N/A |
-| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.9% | N/A | N/A | N/A | N/A |
-| [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.2% | N/A | N/A | N/A | N/A |
-| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | N/A | N/A | N/A | N/A |
-| [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.7% | N/A | N/A | N/A | N/A |
-| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.5% | N/A | N/A | N/A | N/A |
-| [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.2% | N/A | N/A | N/A | N/A |
-| [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.2% | N/A | N/A | N/A | N/A |
-| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20.0% | N/A | N/A | N/A | N/A |
-| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 21.0% | N/A | N/A | N/A | N/A |
-| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.2% | N/A | N/A | N/A | N/A |
-| [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.6% | N/A | N/A | N/A | N/A |
-| [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.1% | N/A | N/A | N/A | N/A |
-| [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.9% | N/A | N/A | N/A | N/A |
-| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.2% | N/A | N/A | N/A | N/A |
-| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.4% | N/A | N/A | N/A | N/A |
-| [17–25 May 2019](2019-05-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.1% | N/A | N/A | N/A | N/A |
-| [13–18 May 2019](2019-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 30.4% | N/A | N/A | N/A | N/A |
-| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 28.0% | N/A | N/A | N/A | N/A |
-| [4–13 April 2019](2019-04-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 30.7% | N/A | N/A | N/A | N/A |
-| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.0% | N/A | N/A | N/A | N/A |
-| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.0% | N/A | N/A | N/A | N/A |
-| [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.5% | N/A | N/A | N/A | N/A |
-| [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.8% | N/A | N/A | N/A | N/A |
-| [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.7% | N/A | N/A | N/A | N/A |
-| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 31.1% | N/A | N/A | N/A | N/A |
-| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.9% | N/A | N/A | N/A | N/A |
-| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.5% | N/A | N/A | N/A | N/A |
-| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.2% | N/A | N/A | N/A | N/A |
-| [9 December 2018](2018-12-09-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.6% | N/A | N/A | N/A | N/A |
-| [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | N/A | N/A | N/A | N/A |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 27.0% | N/A | N/A | N/A | N/A |
-| [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | N/A | N/A | N/A | N/A |
-| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.0% | N/A | N/A | N/A | N/A |
-| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.0% | N/A | N/A | N/A | N/A |
-| [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | N/A | N/A | N/A | N/A |
+| [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.5% | 20.5–27.4% |
+| [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.1% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
+| [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.9–30.4% | 24.0–31.3% |
+| [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
+| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.9% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
+| [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
+| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
+| [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.7% | 25.0–28.6% | 24.5–29.2% | 24.1–29.6% | 23.2–30.5% |
+| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.5% | 24.8–28.4% | 24.3–28.9% | 23.9–29.4% | 23.1–30.3% |
+| [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.2% | 24.5–28.0% | 24.0–28.5% | 23.6–29.0% | 22.8–29.9% |
+| [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–26.0% | 19.9–26.8% |
+| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 17.0–23.4% |
+| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
+| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.2% | 24.5–28.1% | 24.0–28.6% | 23.6–29.0% | 22.8–29.9% |
+| [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.6% | 23.9–27.5% | 23.4–28.0% | 23.0–28.5% | 22.2–29.4% |
+| [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.6% |
+| [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.6% |
+| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.2% | 24.4–28.0% | 23.9–28.6% | 23.5–29.0% | 22.7–29.9% |
+| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.4% | 20.8–24.2% | 20.4–24.7% | 20.0–25.1% | 19.2–26.0% |
+| [17–25 May 2019](2019-05-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.1% | 24.4–27.9% | 23.9–28.4% | 23.5–28.9% | 22.7–29.8% |
+| [13–18 May 2019](2019-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 30.4% | 28.6–32.4% | 28.1–32.9% | 27.6–33.4% | 26.8–34.3% |
+| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.4–30.9% | 24.5–31.8% |
+| [4–13 April 2019](2019-04-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 30.7% | 28.9–32.6% | 28.4–33.1% | 28.0–33.6% | 27.1–34.5% |
+| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
+| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
+| [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.5% | 21.8–25.3% | 21.4–25.7% | 21.0–26.2% | 20.2–27.1% |
+| [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.8% | 26.1–29.7% | 25.6–30.2% | 25.1–30.7% | 24.3–31.6% |
+| [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.7% | 22.1–25.5% | 21.6–26.0% | 21.2–26.5% | 20.4–27.3% |
+| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 31.1% | 29.3–33.0% | 28.8–33.6% | 28.3–34.0% | 27.5–34.9% |
+| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.9% | 22.3–25.7% | 21.8–26.2% | 21.4–26.7% | 20.6–27.5% |
+| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.1–30.2% |
+| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.8% |
+| [9 December 2018](2018-12-09-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.6% | 26.8–30.4% | 26.3–31.0% | 25.9–31.4% | 25.1–32.3% |
+| [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.6% |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.8% | 23.5–30.7% |
+| [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.5–29.7% |
+| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
+| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.0% | 23.3–26.8% | 22.8–27.4% | 22.4–27.8% | 21.7–28.7% |
+| [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | 24.3–27.8% | 23.7–28.4% | 23.3–28.8% | 22.5–29.8% |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 24.0% | N/A | N/A | N/A | N/A |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.0% | N/A | N/A | N/A | N/A |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.0% | N/A | N/A | N/A | N/A |
@@ -150,45 +150,45 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23 | 22–25 | 22–25 | 20–26 | 19–27 |
 | [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23 | 22–26 | 22–27 | 21–27 | 19–27 |
 | [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23 | 21–25 | 20–25 | 20–27 | 19–27 |
-| [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [17–25 May 2019](2019-05-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [13–18 May 2019](2019-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [4–13 April 2019](2019-04-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [9 December 2018](2018-12-09-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
-| [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
+| [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22 | 22–25 | 21–25 | 19–25 | 19–26 |
+| [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20 | 18–21 | 18–21 | 17–22 | 17–22 |
+| [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20 | 20–21 | 18–22 | 18–22 | 18–24 |
+| [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25 | 23–27 | 23–27 | 23–27 | 21–30 |
+| [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22 | 21–24 | 19–25 | 19–25 | 18–25 |
+| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23 | 20–23 | 20–23 | 20–23 | 19–25 |
+| [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 18 | 18–20 | 18–20 | 18–20 | 16–21 |
+| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22 | 21–25 | 21–25 | 20–25 | 19–25 |
+| [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22 | 22 | 20–22 | 19–22 | 19–22 |
+| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 21 | 19–23 | 19–23 | 19–24 | 18–25 |
+| [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23 | 21–27 | 20–27 | 20–27 | 20–27 |
+| [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 21 | 19–21 | 18–21 | 17–22 | 16–22 |
+| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14 | 14–17 | 13–17 | 13–17 | 13–18 |
+| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 17 | 16–18 | 15–18 | 15–18 | 14–20 |
+| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22 | 21–25 | 21–25 | 21–25 | 19–26 |
+| [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 21 | 19–25 | 19–25 | 19–25 | 18–26 |
+| [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 17 | 16–18 | 16–19 | 15–20 | 15–22 |
+| [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23 | 22–26 | 21–26 | 20–27 | 20–28 |
+| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22 | 19–24 | 19–24 | 19–24 | 18–26 |
+| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19 | 16–19 | 16–19 | 15–20 | 15–22 |
+| [17–25 May 2019](2019-05-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22 | 19–23 | 19–23 | 18–23 | 18–24 |
+| [13–18 May 2019](2019-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 24 | 23–26 | 22–27 | 22–28 | 21–28 |
+| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [4–13 April 2019](2019-04-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 21 | 20–30 | 20–30 | 20–30 | 20–31 |
+| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 21 | 19–23 | 18–24 | 17–24 | 17–24 |
+| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21 | 19–22 | 18–23 | 18–24 | 17–24 |
+| [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 19 | 18–21 | 18–21 | 17–22 | 17–23 |
+| [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 24 | 22–26 | 21–27 | 21–27 | 20–29 |
+| [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
+| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25 | 23–26 | 22–27 | 22–28 | 22–28 |
+| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19 | 17–21 | 17–21 | 17–22 | 16–22 |
+| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22 | 21–24 | 21–24 | 20–25 | 19–26 |
+| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
+| [9 December 2018](2018-12-09-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
+| [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21 | 19–22 | 19–23 | 19–23 | 18–25 |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21 | 20–24 | 19–24 | 19–25 | 18–26 |
+| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
+| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20 | 19–23 | 18–24 | 18–24 | 18–24 |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
