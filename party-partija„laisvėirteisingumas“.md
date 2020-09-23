@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 27 March 2017)
 | [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [16–30 July 2020](2020-07-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5.4% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.8–7.5% |
-| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5.6% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
+| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5.6% | 4.8–6.7% | 4.5–7.0% | 4.3–7.2% | 4.0–7.8% |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4.9% | 4.2–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–7.0% |
 | [15–25 June 2020](2020-06-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5.4% | 4.6–6.5% | 4.3–6.8% | 4.2–7.0% | 3.8–7.5% |
@@ -112,9 +112,9 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 0 | 0 | 0 | 0 | 0–4 |
 | [16–30 July 2020](2020-07-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [15–25 June 2020](2020-06-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [15–25 June 2020](2020-06-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
