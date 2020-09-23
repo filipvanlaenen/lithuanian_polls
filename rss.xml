@@ -5,9 +5,9 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>All Registered Polls for the Lithuanian Parliament</title>
+    <title>All Registered Polls for the Seimas</title>
     <link>https://filipvanlaenen.github.io/lithuanian_polls</link>
-    <description>All Registered Polls for the Lithuanian Parliament</description>
+    <description>All Registered Polls for the Seimas</description>
     <pubDate>Wed, 23 Sep 2020 17:07:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seat Projections for the Parties</title>
