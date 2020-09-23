@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>All Registered Polls for the Lithuanian Parliament</title>
+    <title>All Registered Polls for the Seimas</title>
     <link>https://filipvanlaenen.github.io/lithuanian_polls</link>
-    <description>All Registered Polls for the Lithuanian Parliament</description>
-    <pubDate>Mon, 21 Sep 2020 16:36:55 +0200</pubDate>
+    <description>All Registered Polls for the Seimas</description>
+    <pubDate>Wed, 23 Sep 2020 20:54:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seating-plan.png" length="520735" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:24:16 +0200</pubDate>
       <dc:date>2020-09-23T07:24:16.817688+02:00</dc:date>
@@ -16,7 +16,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus-seats.png" length="284029" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:24:16 +0200</pubDate>
       <dc:date>2020-09-23T07:24:16.817688+02:00</dc:date>
@@ -24,7 +24,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.png" length="380660" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:24:16 +0200</pubDate>
       <dc:date>2020-09-23T07:24:16.817688+02:00</dc:date>
@@ -32,7 +32,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 26 August–4 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seating-plan.png" length="529566" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:34:22 +0200</pubDate>
       <dc:date>2020-09-23T08:34:22.96399+02:00</dc:date>
@@ -40,7 +40,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 26 August–4 September 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai-seats.png" length="275721" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:34:22 +0200</pubDate>
       <dc:date>2020-09-23T08:34:22.96399+02:00</dc:date>
@@ -48,7 +48,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 26 August–4 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Spinter tyrimai for Delfi, 26 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Spintertyrimai.png" length="360942" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:34:22 +0200</pubDate>
       <dc:date>2020-09-23T08:34:22.96399+02:00</dc:date>
@@ -56,7 +56,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seating-plan.png" length="518031" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:13:21 +0200</pubDate>
       <dc:date>2020-09-23T08:13:21.516538+02:00</dc:date>
@@ -64,7 +64,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai-seats.png" length="261487" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:13:21 +0200</pubDate>
       <dc:date>2020-09-23T08:13:21.516538+02:00</dc:date>
@@ -72,7 +72,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Baltijos tyrimai for ELTA, 22 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-04-Baltijostyrimai.png" length="372144" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:13:21 +0200</pubDate>
       <dc:date>2020-09-23T08:13:21.516538+02:00</dc:date>
@@ -80,7 +80,7 @@
     <item>
       <title>Opinion Poll by Norstat for LRT, 29 July–31 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seating-plan.png" length="525317" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:50:53 +0200</pubDate>
       <dc:date>2020-09-23T07:50:53.404875+02:00</dc:date>
@@ -88,7 +88,7 @@
     <item>
       <title>Opinion Poll by Norstat for LRT, 29 July–31 August 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat-seats.png" length="304915" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:50:53 +0200</pubDate>
       <dc:date>2020-09-23T07:50:53.404875+02:00</dc:date>
@@ -96,7 +96,7 @@
     <item>
       <title>Opinion Poll by Norstat for LRT, 29 July–31 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Norstat for LRT, 29 July–31 August 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-08-31-Norstat.png" length="373877" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 07:50:53 +0200</pubDate>
       <dc:date>2020-09-23T07:50:53.404875+02:00</dc:date>
@@ -104,7 +104,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 16–30 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seating-plan.png" length="518129" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:56:03 +0200</pubDate>
       <dc:date>2020-09-23T08:56:03.125647+02:00</dc:date>
@@ -112,7 +112,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 16–30 July 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai-seats.png" length="266504" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:56:03 +0200</pubDate>
       <dc:date>2020-09-23T08:56:03.125647+02:00</dc:date>
@@ -120,7 +120,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 16–30 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Baltijos tyrimai for ELTA, 16–30 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-30-Baltijostyrimai.png" length="359483" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 08:56:03 +0200</pubDate>
       <dc:date>2020-09-23T08:56:03.125647+02:00</dc:date>
@@ -128,7 +128,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–26 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seating-plan.png" length="525029" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:14:46 +0200</pubDate>
       <dc:date>2020-09-23T09:14:46.710962+02:00</dc:date>
@@ -136,7 +136,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–26 July 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai-seats.png" length="256852" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:14:46 +0200</pubDate>
       <dc:date>2020-09-23T09:14:46.710962+02:00</dc:date>
@@ -144,7 +144,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–26 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Spinter tyrimai for Delfi, 16–26 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-26-Spintertyrimai.png" length="327121" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:14:46 +0200</pubDate>
       <dc:date>2020-09-23T09:14:46.710962+02:00</dc:date>
@@ -152,7 +152,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seating-plan.png" length="521778" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:38:05 +0200</pubDate>
       <dc:date>2020-09-23T09:38:05.742287+02:00</dc:date>
@@ -160,7 +160,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus-seats.png" length="263805" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:38:05 +0200</pubDate>
       <dc:date>2020-09-23T09:38:05.742287+02:00</dc:date>
@@ -168,7 +168,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Vilmorus for Lietuvos rytas, 10–18 July 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-07-18-Vilmorus.png" length="346500" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 09:38:05 +0200</pubDate>
       <dc:date>2020-09-23T09:38:05.742287+02:00</dc:date>
@@ -176,7 +176,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–26 June 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seating-plan.png" length="529644" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:00:10 +0200</pubDate>
       <dc:date>2020-09-23T10:00:10.895394+02:00</dc:date>
@@ -184,7 +184,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–26 June 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai-seats.png" length="242601" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:00:10 +0200</pubDate>
       <dc:date>2020-09-23T10:00:10.895394+02:00</dc:date>
@@ -192,7 +192,7 @@
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–26 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Spinter tyrimai for Delfi, 18–26 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-26-Spintertyrimai.png" length="293546" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:00:10 +0200</pubDate>
       <dc:date>2020-09-23T10:00:10.895394+02:00</dc:date>
@@ -200,7 +200,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–25 June 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seating-plan.png" length="513856" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:22:47 +0200</pubDate>
       <dc:date>2020-09-23T10:22:47.48515+02:00</dc:date>
@@ -208,7 +208,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–25 June 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai-seats.png" length="255467" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:22:47 +0200</pubDate>
       <dc:date>2020-09-23T10:22:47.48515+02:00</dc:date>
@@ -216,7 +216,7 @@
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–25 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Baltijos tyrimai for ELTA, 15–25 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-25-Baltijostyrimai.png" length="358214" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:22:47 +0200</pubDate>
       <dc:date>2020-09-23T10:22:47.48515+02:00</dc:date>
@@ -224,7 +224,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seating-plan.png"/>]]></description>
+      <description><![CDATA[Seating plan projection for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seating-plan.png" length="517392" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:46:03 +0200</pubDate>
       <dc:date>2020-09-23T10:46:03.424158+02:00</dc:date>
@@ -232,7 +232,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html#seats</link>
-      <description><![CDATA[Seat projections for the Lithuanian Parliament<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seats.png"/>]]></description>
+      <description><![CDATA[Seat projections for the Seimas<br/>71 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus-seats.png" length="265028" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:46:03 +0200</pubDate>
       <dc:date>2020-09-23T10:46:03.424158+02:00</dc:date>
@@ -240,7 +240,7 @@
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html</link>
-      <description><![CDATA[Voting intentions for the Lithuanian Parliament<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.png"/>]]></description>
+      <description><![CDATA[Voting intentions for the Seimas<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-06-13-Vilmorus.png" length="351305" type="image/png"/>
       <pubDate>Wed, 23 Sep 2020 10:46:03 +0200</pubDate>
       <dc:date>2020-09-23T10:46:03.424158+02:00</dc:date>
