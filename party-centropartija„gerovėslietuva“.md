@@ -127,7 +127,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0–4 |
-| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
 | [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0–4 |
 | [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |

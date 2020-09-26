@@ -117,11 +117,11 @@ Last result: **14** seats (General Election of 27 March 2017)
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [13–26 February 2020](2020-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
 | [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -129,7 +129,7 @@ Last result: **14** seats (General Election of 27 March 2017)
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
-| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
+| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 6 | 6 | 6–7 | 5–8 |
 | [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 4 | 4–6 | 0–6 | 0–6 | 0–6 |
 | [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -165,11 +165,11 @@ Last result: **14** seats (General Election of 27 March 2017)
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [6–15 April 2018](2018-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [12–21 January 2018](2018-01-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
 
 ### Probability Mass Function

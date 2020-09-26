@@ -115,10 +115,10 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–5 |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0–4 | 0–5 |
-| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [13–26 February 2020](2020-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0–4 |
+| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–5 |
 | [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0–4 |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
@@ -163,7 +163,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–5 | 0–6 | 0–6 | 0–6 |
-| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [6–15 April 2018](2018-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 6–8 | 5–8 | 5–8 | 4–8 |

@@ -164,11 +164,11 @@ Last result: **8** seats (General Election of 27 March 2017)
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–5 | 0–6 | 0–6 | 0–6 |
-| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
 | [6–15 April 2018](2018-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0–4 | 0–4 | 0–5 |
-| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4–5 | 0–5 | 0–5 | 0–6 |
+| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [12–21 January 2018](2018-01-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–5 |
 
 ### Probability Mass Function

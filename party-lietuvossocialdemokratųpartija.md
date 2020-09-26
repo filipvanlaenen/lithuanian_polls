@@ -123,11 +123,11 @@ Last result: **17** seats (General Election of 27 March 2017)
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10 | 9–12 | 9–13 | 9–13 | 9–14 |
-| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [13–26 February 2020](2020-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 12 | 11–14 | 11–15 | 11–15 | 11–15 |
 | [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10 | 10–12 | 9–13 | 9–13 | 8–13 |
-| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 13 | 12–14 | 12–14 | 12–15 | 11–16 |
-| [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
+| [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
 | [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14 | 13–16 | 13–16 | 13–16 | 11–17 |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
@@ -135,7 +135,7 @@ Last result: **17** seats (General Election of 27 March 2017)
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 16 | 16–19 | 14–19 | 14–19 | 14–19 |
 | [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11 | 10–11 | 9–11 | 9–12 | 8–12 |
 | [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
+| [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 9 | 9 | 9 | 8–9 | 8–10 |
 | [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11 | 9–13 | 9–13 | 9–13 | 9–13 |
@@ -171,11 +171,11 @@ Last result: **17** seats (General Election of 27 March 2017)
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
+| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [6–15 April 2018](2018-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [12–21 January 2018](2018-01-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 
 ### Probability Mass Function
