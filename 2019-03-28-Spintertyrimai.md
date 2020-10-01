@@ -31,13 +31,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai">Tėvynės sąjunga–Lietuvos krikščionys demokratai</a> | 31 | 21 | 19–22 |18–23 |18–24 |17–24 |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga">Lietuvos valstiečių ir žaliųjų sąjunga</a> | 54 | 17 | 16–19 |15–19 |15–20 |14–20 |
-| <a href="#lietuvos-socialdemokratų-partija">Lietuvos socialdemokratų partija</a> | 17 | 11 | 10–13 |10–13 |10–14 |9–14 |
-| <a href="#liberalų-sąjūdis">Liberalų Sąjūdis</a> | 14 | 6 | 6–8 |5–8 |5–8 |5–8 |
+| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai">Tėvynės sąjunga–Lietuvos krikščionys demokratai</a> | 31 | 20 | 19–22 |19–23 |18–23 |17–24 |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga">Lietuvos valstiečių ir žaliųjų sąjunga</a> | 54 | 17 | 16–19 |15–19 |15–20 |14–21 |
+| <a href="#lietuvos-socialdemokratų-partija">Lietuvos socialdemokratų partija</a> | 17 | 12 | 10–13 |10–13 |10–14 |9–14 |
+| <a href="#liberalų-sąjūdis">Liberalų Sąjūdis</a> | 14 | 6 | 6–8 |5–8 |5–8 |5–9 |
 | <a href="#partija-tvarka-ir-teisingumas">Partija tvarka ir teisingumas</a> | 8 | 6 | 5–7 |5–7 |5–7 |4–8 |
-| <a href="#darbo-partija">Darbo Partija</a> | 2 | 6 | 5–7 |5–7 |5–7 |4–8 |
-| <a href="#lietuvos-lenkų-rinkimų-akcija">Lietuvos lenkų rinkimų akcija</a> | 8 | 0 | 0–5 |0–5 |0–5 |0–6 |
+| <a href="#darbo-partija">Darbo Partija</a> | 2 | 6 | 5–7 |5–7 |4–7 |4–8 |
+| <a href="#lietuvos-lenkų-rinkimų-akcija">Lietuvos lenkų rinkimų akcija</a> | 8 | 4 | 0–5 |0–5 |0–5 |0–6 |
 | <a href="#centro-partija-„gerovės-lietuva“">Centro partija „Gerovės Lietuva“</a> | 0 | 0 | 0 |0–4 |0–4 |0–5 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai
@@ -48,15 +48,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 1.1% | 100% |  |
-| 18 | 8% | 98.9% |  |
-| 19 | 21% | 91% |  |
-| 20 | 19% | 70% |  |
-| 21 | 30% | 51% | Median |
-| 22 | 11% | 20% |  |
-| 23 | 5% | 9% |  |
-| 24 | 4% | 4% |  |
-| 25 | 0.1% | 0.1% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.8% | 99.9% |  |
+| 18 | 4% | 99.1% |  |
+| 19 | 18% | 95% |  |
+| 20 | 29% | 77% | Median |
+| 21 | 26% | 48% |  |
+| 22 | 14% | 22% |  |
+| 23 | 6% | 8% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
@@ -72,16 +73,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 1.0% | 99.9% |  |
-| 15 | 7% | 98.9% |  |
-| 16 | 17% | 92% |  |
-| 17 | 28% | 76% | Median |
-| 18 | 31% | 48% |  |
-| 19 | 15% | 17% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.1% | 0.2% |  |
-| 22 | 0% | 0.1% |  |
+| 14 | 0.7% | 100% |  |
+| 15 | 7% | 99.3% |  |
+| 16 | 20% | 93% |  |
+| 17 | 32% | 73% | Median |
+| 18 | 26% | 41% |  |
+| 19 | 12% | 15% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.6% | 0.6% |  |
+| 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -123,14 +123,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 1.1% | 99.9% |  |
-| 10 | 14% | 98.8% |  |
-| 11 | 44% | 85% | Median |
-| 12 | 28% | 41% |  |
-| 13 | 8% | 13% |  |
-| 14 | 5% | 5% |  |
-| 15 | 0.1% | 0.2% |  |
+| 9 | 1.4% | 100% |  |
+| 10 | 15% | 98.5% |  |
+| 11 | 33% | 84% |  |
+| 12 | 33% | 51% | Median |
+| 13 | 14% | 18% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% | Last Result |
 
@@ -143,11 +142,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 46% | 92% | Median |
-| 7 | 35% | 46% |  |
-| 8 | 11% | 12% |  |
-| 9 | 0.4% | 0.4% |  |
+| 5 | 6% | 99.9% |  |
+| 6 | 45% | 94% | Median |
+| 7 | 38% | 49% |  |
+| 8 | 10% | 11% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
@@ -162,15 +161,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 0% | 99.8% |  |
-| 2 | 0% | 99.8% |  |
-| 3 | 0% | 99.8% |  |
-| 4 | 2% | 99.8% |  |
-| 5 | 27% | 98% |  |
-| 6 | 40% | 71% | Median |
-| 7 | 30% | 31% |  |
-| 8 | 2% | 2% | Last Result |
+| 0 | 0.3% | 100% |  |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 0% | 99.7% |  |
+| 4 | 2% | 99.7% |  |
+| 5 | 31% | 98% |  |
+| 6 | 50% | 66% | Median |
+| 7 | 16% | 17% |  |
+| 8 | 1.0% | 1.0% | Last Result |
 | 9 | 0% | 0% |  |
 
 ### Darbo Partija
@@ -181,15 +180,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 0% | 99.6% |  |
-| 2 | 0% | 99.6% | Last Result |
-| 3 | 0% | 99.6% |  |
-| 4 | 2% | 99.6% |  |
-| 5 | 40% | 98% |  |
-| 6 | 31% | 58% | Median |
-| 7 | 25% | 26% |  |
-| 8 | 1.1% | 1.1% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% | Last Result |
+| 3 | 0% | 99.7% |  |
+| 4 | 3% | 99.7% |  |
+| 5 | 41% | 97% |  |
+| 6 | 32% | 55% | Median |
+| 7 | 22% | 24% |  |
+| 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija
@@ -200,12 +199,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 0% | 45% |  |
-| 4 | 21% | 45% |  |
-| 5 | 23% | 24% |  |
+| 0 | 48% | 100% |  |
+| 1 | 0% | 52% |  |
+| 2 | 0% | 52% |  |
+| 3 | 0% | 52% |  |
+| 4 | 32% | 52% | Median |
+| 5 | 19% | 20% |  |
 | 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
@@ -218,18 +217,79 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 0% | 10% |  |
-| 3 | 0% | 10% |  |
-| 4 | 8% | 10% |  |
-| 5 | 1.3% | 1.3% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 0% | 7% |  |
+| 4 | 6% | 7% |  |
+| 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
 
 ## Coalitions
 
 ![Graph with coalitions seats not yet produced](2019-03-28-Spintertyrimai-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Lietuvos valstiečių ir žaliųjų sąjunga – Lietuvos socialdemokratų partija | 71 | 29 | 0% | 27–31 | 26–32 | 26–32 | 25–33 |
+
+### Lietuvos valstiečių ir žaliųjų sąjunga – Lietuvos socialdemokratų partija
+
+![Graph with seats probability mass function not yet produced](2019-03-28-Spintertyrimai-coalitions-seats-pmf-lvžs–lsdp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 24 | 0.3% | 100% |  |
+| 25 | 1.3% | 99.7% |  |
+| 26 | 6% | 98% |  |
+| 27 | 14% | 92% |  |
+| 28 | 23% | 78% |  |
+| 29 | 23% | 56% | Median |
+| 30 | 17% | 33% |  |
+| 31 | 11% | 17% |  |
+| 32 | 5% | 5% |  |
+| 33 | 0.6% | 0.7% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% | Last Result, Majority |
 
 
 ## Technical Information
@@ -243,6 +303,6 @@
 ### Calculations
 
 + **Sample size:** 1006
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.89%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.46%
 

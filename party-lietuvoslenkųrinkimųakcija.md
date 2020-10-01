@@ -126,7 +126,7 @@ Last result: **8** seats (General Election of 27 March 2017)
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
+| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0–4 |
 | [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
@@ -146,11 +146,11 @@ Last result: **8** seats (General Election of 27 March 2017)
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–5 | 0–6 | 0–6 | 0–6 |
 | [4–13 April 2019](2019-04-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0–4 | 0–5 | 0–5 |
-| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–6 | 0–7 | 0–7 | 0–7 |
 | [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
+| [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0–4 |
 | [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6 | 5–7 | 5–7 | 4–7 | 0–7 |
 | [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
@@ -160,12 +160,12 @@ Last result: **8** seats (General Election of 27 March 2017)
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0–4 | 0–5 |
-| [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4 | 4–5 | 4–5 | 4–5 | 0–6 |
+| [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5 | 4–5 | 4–6 | 0–6 | 0–6 |
 | [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–4 | 0–4 |
 | [6–15 April 2018](2018-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [9–18 February 2018](2018-02-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
