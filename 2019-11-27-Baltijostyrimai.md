@@ -33,16 +33,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai">Tėvynės sąjunga–Lietuvos krikščionys demokratai</a> | 31 | 22 | 21–24 |19–25 |19–25 |18–25 |
-| <a href="#lietuvos-socialdemokratų-partija">Lietuvos socialdemokratų partija</a> | 17 | 16 | 16–19 |14–19 |14–19 |14–19 |
-| <a href="#darbo-partija">Darbo Partija</a> | 2 | 12 | 11–13 |10–13 |10–13 |9–13 |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga">Lietuvos valstiečių ir žaliųjų sąjunga</a> | 54 | 11 | 9–11 |9–11 |9–12 |8–13 |
-| <a href="#liberalų-sąjūdis">Liberalų Sąjūdis</a> | 14 | 5 | 0–5 |0–5 |0–6 |0–6 |
-| <a href="#lietuvos-lenkų-rinkimų-akcija">Lietuvos lenkų rinkimų akcija</a> | 8 | 0 | 0–5 |0–6 |0–6 |0–6 |
-| <a href="#partija-tvarka-ir-teisingumas">Partija tvarka ir teisingumas</a> | 8 | 5 | 0–5 |0–5 |0–5 |0–5 |
+| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai">Tėvynės sąjunga–Lietuvos krikščionys demokratai</a> | 31 | 21 | 19–23 |19–23 |19–24 |18–25 |
+| <a href="#lietuvos-socialdemokratų-partija">Lietuvos socialdemokratų partija</a> | 17 | 16 | 15–18 |14–18 |14–19 |13–19 |
+| <a href="#darbo-partija">Darbo Partija</a> | 2 | 11 | 10–13 |10–13 |9–13 |9–14 |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga">Lietuvos valstiečių ir žaliųjų sąjunga</a> | 54 | 10 | 9–12 |9–12 |8–12 |8–13 |
+| <a href="#liberalų-sąjūdis">Liberalų Sąjūdis</a> | 14 | 5 | 0–5 |0–6 |0–6 |0–6 |
+| <a href="#lietuvos-lenkų-rinkimų-akcija">Lietuvos lenkų rinkimų akcija</a> | 8 | 5 | 0–5 |0–6 |0–6 |0–6 |
+| <a href="#partija-tvarka-ir-teisingumas">Partija tvarka ir teisingumas</a> | 8 | 4 | 0–5 |0–5 |0–5 |0–6 |
 | <a href="#lietuvos-socialdemokratų-darbo-partija">Lietuvos socialdemokratų darbo partija</a> | 0 | 0 | 0 |0 |0 |0–4 |
 | <a href="#laisvės-partija">Laisvės partija</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#centro-partija-„gerovės-lietuva“">Centro partija „Gerovės Lietuva“</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#centro-partija-„gerovės-lietuva“">Centro partija „Gerovės Lietuva“</a> | 0 | 0 | 0 |0 |0 |0–4 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai
 
@@ -53,17 +53,17 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.8% | 99.9% |  |
-| 19 | 8% | 99.1% |  |
-| 20 | 1.1% | 91% |  |
-| 21 | 6% | 90% |  |
-| 22 | 61% | 84% | Median |
-| 23 | 13% | 23% |  |
-| 24 | 2% | 10% |  |
-| 25 | 8% | 8% |  |
-| 26 | 0.1% | 0.1% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
+| 18 | 2% | 99.9% |  |
+| 19 | 23% | 98% |  |
+| 20 | 16% | 75% |  |
+| 21 | 12% | 59% | Median |
+| 22 | 35% | 47% |  |
+| 23 | 9% | 12% |  |
+| 24 | 1.2% | 3% |  |
+| 25 | 1.3% | 2% |  |
+| 26 | 0.2% | 0.4% |  |
+| 27 | 0% | 0.2% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
@@ -76,14 +76,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.4% | 100% |  |
-| 14 | 5% | 99.5% |  |
-| 15 | 4% | 94% |  |
-| 16 | 49% | 91% | Median |
-| 17 | 30% | 42% | Last Result |
-| 18 | 0.7% | 12% |  |
-| 19 | 11% | 12% |  |
-| 20 | 0.2% | 0.2% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.9% | 99.9% |  |
+| 14 | 6% | 99.0% |  |
+| 15 | 28% | 93% |  |
+| 16 | 18% | 65% | Median |
+| 17 | 23% | 47% | Last Result |
+| 18 | 22% | 24% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 ### Darbo Partija
@@ -101,12 +102,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 1.0% | 99.9% |  |
-| 10 | 6% | 98.9% |  |
-| 11 | 42% | 93% |  |
-| 12 | 26% | 51% | Median |
-| 13 | 25% | 25% |  |
-| 14 | 0.4% | 0.5% |  |
+| 9 | 3% | 99.9% |  |
+| 10 | 13% | 97% |  |
+| 11 | 35% | 85% | Median |
+| 12 | 38% | 50% |  |
+| 13 | 10% | 11% |  |
+| 14 | 1.3% | 1.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -118,14 +119,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 2% | 99.9% |  |
-| 9 | 28% | 98% |  |
-| 10 | 19% | 70% |  |
-| 11 | 47% | 51% | Median |
-| 12 | 3% | 4% |  |
-| 13 | 0.9% | 1.2% |  |
-| 14 | 0.3% | 0.3% |  |
+| 8 | 5% | 100% |  |
+| 9 | 18% | 95% |  |
+| 10 | 36% | 77% | Median |
+| 11 | 28% | 41% |  |
+| 12 | 12% | 13% |  |
+| 13 | 0.8% | 0.9% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
@@ -175,14 +175,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 0% | 71% |  |
-| 2 | 0% | 71% |  |
-| 3 | 0% | 71% |  |
-| 4 | 2% | 71% |  |
-| 5 | 65% | 69% | Median |
-| 6 | 3% | 3% |  |
-| 7 | 0.4% | 0.4% |  |
+| 0 | 20% | 100% |  |
+| 1 | 0% | 80% |  |
+| 2 | 0% | 80% |  |
+| 3 | 0% | 80% |  |
+| 4 | 20% | 80% |  |
+| 5 | 52% | 60% | Median |
+| 6 | 8% | 8% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
@@ -199,14 +199,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Median |
-| 1 | 0% | 42% |  |
-| 2 | 0% | 42% |  |
-| 3 | 0% | 42% |  |
-| 4 | 4% | 42% |  |
-| 5 | 29% | 38% |  |
-| 6 | 9% | 9% |  |
-| 7 | 0.2% | 0.2% |  |
+| 0 | 18% | 100% |  |
+| 1 | 0% | 82% |  |
+| 2 | 0% | 82% |  |
+| 3 | 0% | 82% |  |
+| 4 | 9% | 82% |  |
+| 5 | 65% | 72% | Median |
+| 6 | 7% | 8% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Last Result |
 
 ### Partija tvarka ir teisingumas
@@ -217,14 +217,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 0% | 77% |  |
-| 4 | 9% | 77% |  |
-| 5 | 67% | 67% | Median |
-| 6 | 0.3% | 0.3% |  |
-| 7 | 0.1% | 0.1% |  |
+| 0 | 37% | 100% |  |
+| 1 | 0% | 63% |  |
+| 2 | 0% | 63% |  |
+| 3 | 0% | 63% |  |
+| 4 | 21% | 63% | Median |
+| 5 | 42% | 42% |  |
+| 6 | 0.6% | 0.6% |  |
+| 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
 
 ### Lietuvos socialdemokratų darbo partija
@@ -235,12 +235,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0% | 1.1% |  |
-| 2 | 0% | 1.1% |  |
-| 3 | 0% | 1.1% |  |
-| 4 | 1.0% | 1.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 0% | 1.3% |  |
+| 2 | 0% | 1.3% |  |
+| 3 | 0% | 1.3% |  |
+| 4 | 1.1% | 1.3% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
 
 ### Laisvės partija
 
@@ -250,13 +251,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0% | 0.3% |  |
+| 2 | 0% | 0.3% |  |
+| 3 | 0% | 0.3% |  |
+| 4 | 0.3% | 0.3% |  |
+| 5 | 0% | 0% |  |
 
 ### Centro partija „Gerovės Lietuva“
 
@@ -266,12 +266,81 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0% | 0.7% |  |
+| 2 | 0% | 0.7% |  |
+| 3 | 0% | 0.7% |  |
+| 4 | 0.7% | 0.7% |  |
+| 5 | 0% | 0% |  |
 
 
 ## Coalitions
 
 ![Graph with coalitions seats not yet produced](2019-11-27-Baltijostyrimai-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Lietuvos socialdemokratų partija – Lietuvos valstiečių ir žaliųjų sąjunga | 71 | 27 | 0% | 25–29 | 24–29 | 24–29 | 22–30 |
+
+### Lietuvos socialdemokratų partija – Lietuvos valstiečių ir žaliųjų sąjunga
+
+![Graph with seats probability mass function not yet produced](2019-11-27-Baltijostyrimai-coalitions-seats-pmf-lsdp–lvžs.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 21 | 0.1% | 100% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 0.9% | 99.4% |  |
+| 24 | 5% | 98.5% |  |
+| 25 | 22% | 93% |  |
+| 26 | 15% | 72% | Median |
+| 27 | 36% | 57% |  |
+| 28 | 7% | 21% |  |
+| 29 | 12% | 14% |  |
+| 30 | 1.4% | 2% |  |
+| 31 | 0.1% | 0.4% |  |
+| 32 | 0.2% | 0.2% |  |
+| 33 | 0% | 0.1% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% | Last Result, Majority |
 
 
 ## Technical Information
@@ -285,6 +354,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.42%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.32%
 
