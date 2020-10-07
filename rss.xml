@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Seimas</title>
     <link>https://filipvanlaenen.github.io/lithuanian_polls</link>
     <description>All Registered Polls for the Seimas</description>
-    <pubDate>Fri, 02 Oct 2020 16:45:56 +0200</pubDate>
+    <pubDate>Wed, 07 Oct 2020 17:15:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai: 12–16 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga: 17–21 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija: 10–13 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis: 6–9 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija: 0–6 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“: 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija: 6–9 seats&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija: 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija: 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija: 0 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“: 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai-seats.png"
+        length="276992"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 17:15:29 +0200</pubDate>
+      <dc:date>2020-10-07T17:15:29.907132+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai-coalitions-seats.png"
+        length="78100"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 17:15:29 +0200</pubDate>
+      <dc:date>2020-10-07T17:15:29.907132+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga: 20.7–25.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija: 11.9–16.2%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Darbo Partija: 7.2–10.8%&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Laisvės partija: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“: 6.4–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_polls/2020-09-27-Baltijostyrimai.png"
+        length="372250"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 17:15:29 +0200</pubDate>
+      <dc:date>2020-10-07T17:15:29.907132+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_polls/2020-09-12-Vilmorus.html#seats</link>
@@ -1989,6 +2019,6 @@
       <pubDate>Fri, 02 Oct 2020 16:45:56 +0200</pubDate>
       <dc:date>2020-10-02T16:45:56.71668+02:00</dc:date>
     </item>
-    <dc:date>2020-10-02T16:45:56.71668+02:00</dc:date>
+    <dc:date>2020-10-07T17:15:29.907132+02:00</dc:date>
   </channel>
 </rss>
