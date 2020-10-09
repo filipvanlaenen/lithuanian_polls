@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 27 March 2017)
+Last result: **6.3%** (General Election of 27 March 2017)
 
 ### Confidence Intervals
 
@@ -85,18 +85,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 12% | 100% |  |
 | 1.5–2.5% | 28% | 88% |  |
 | 2.5–3.5% | 44% | 59% | Median |
 | 3.5–4.5% | 14% | 15% |  |
 | 4.5–5.5% | 0.8% | 0.8% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% | Last Result |
 
 
 ## Seats
 
-Last result: **0** seats (General Election of 27 March 2017)
+Last result: **1** seats (General Election of 27 March 2017)
 
 ### Confidence Intervals
 
@@ -179,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% | Last Result |
 | 2 | 0% | 0.1% |  |
 | 3 | 0% | 0.1% |  |
 | 4 | 0.1% | 0.1% |  |
